@@ -22,7 +22,7 @@ define('DIR_MODIFICATION', '/home/aintmtdo/public_html/system/modification/');
 define('DIR_CATALOG', '/home/aintmtdo/public_html/catalog/');
 
 // DB
-define('DB_DRIVER', 'mysqli');
+define('DB_DRIVER', 'mysql');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'aintmtdo_2nine');
 define('DB_PASSWORD', 'r89dR8T2nu');

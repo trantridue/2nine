@@ -19,9 +19,9 @@ define('DIR_MODIFICATION', '/home/aintmtdo/public_html/system/modification/');
 define('DIR_LOGS', '/home/aintmtdo/public_html/system/logs/');
 
 // DB
-define('DB_DRIVER', 'mysqli');
+define('DB_DRIVER', 'mysql');
 define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'aintmtdo_2nine');
+define('DB_USERNAME', 'aintmtdo');
 define('DB_PASSWORD', 'r89dR8T2nu');
 define('DB_DATABASE', 'aintmtdo_2nine');
 define('DB_PORT', '3306');

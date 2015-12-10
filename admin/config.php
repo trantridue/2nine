@@ -24,7 +24,7 @@ define('DIR_CATALOG', 'C:/xampp/htdocs/2nine/catalog/');
 // DB
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'aintmtdo_2nine');
+define('DB_USERNAME', 'aintmtdo');
 define('DB_PASSWORD', 'r89dR8T2nu');
 define('DB_DATABASE', 'aintmtdo_2nine');
 define('DB_PORT', '3306');
